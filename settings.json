@@ -8,7 +8,7 @@
     "server":{
         "ip": "game6.falixserver.net",
         "port": 20417,
-        "version": "1.18.2"
+        "version": "1.17.1"
     },
 
     "position":{
